@@ -2,6 +2,7 @@ package com.sania.jandan;
 
 public class Constants{
 	
+	test
 	final static String TAG = "Jandan";
 	final static int TAB_NUMBERS = 4;
 	final static String HOME_PAGE_STRING = "http://www.jandan.net/";
