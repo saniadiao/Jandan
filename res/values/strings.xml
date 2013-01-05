@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">煎蛋</string>
+    <string name="default_string">"神马"</string>
+    <string name="title_section_home">首页</string>
+    <string name="title_section_fml">发霉啦</string>
+    <string name="title_section_ooxx">妹子图</string>
+    <string name="title_section_pic">无聊图</string>
+    <string name="menu_settings">设置</string>
+
+</resources>
